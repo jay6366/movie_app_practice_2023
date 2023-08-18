@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/jay6366/movie_app_practice_2023.git/static/css/main.91dfa37c.css",
-    "main.js": "/jay6366/movie_app_practice_2023.git/static/js/main.f4ee39b7.js",
-    "index.html": "/jay6366/movie_app_practice_2023.git/index.html",
-    "main.91dfa37c.css.map": "/jay6366/movie_app_practice_2023.git/static/css/main.91dfa37c.css.map",
-    "main.f4ee39b7.js.map": "/jay6366/movie_app_practice_2023.git/static/js/main.f4ee39b7.js.map"
+    "main.css": "/movie_app_practice_2023/static/css/main.91dfa37c.css",
+    "main.js": "/movie_app_practice_2023/static/js/main.f4ee39b7.js",
+    "index.html": "/movie_app_practice_2023/index.html",
+    "main.91dfa37c.css.map": "/movie_app_practice_2023/static/css/main.91dfa37c.css.map",
+    "main.f4ee39b7.js.map": "/movie_app_practice_2023/static/js/main.f4ee39b7.js.map"
   },
   "entrypoints": [
     "static/css/main.91dfa37c.css",
